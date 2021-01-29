@@ -1,0 +1,327 @@
+    /* imports */
+    
+    * {
+        font-family: Georgia;
+    }
+    /* ##########   topbar  ########## */
+    
+    .top-bar-menu {
+        background-color: #2E2E2E;
+        font-size: 12px;
+        font-family: Georgia;
+    }
+    
+    .right-border {
+        border-left: red;
+    }
+    
+    .top-bar-social ul i {
+        color: white;
+        font-size: 12px;
+        background-color: #787878;
+        border-radius: 100px;
+        padding: 8px;
+        margin: 2px;
+        text-align: center;
+    }
+    
+    .linkdin:hover {
+        background-color: #3973B1;
+        cursor: pointer;
+    }
+    
+    .twiter:hover {
+        background-color: #509EEC;
+        cursor: pointer;
+    }
+    
+    .pintrest:hover {
+        background-color: #E12D2C;
+        cursor: pointer;
+    }
+    
+    .google-plus:hover {
+        background-color: #DB4A39;
+        cursor: pointer;
+    }
+    
+    .feed:hover {
+        background-color: #EB7E25;
+        cursor: pointer;
+    }
+    /* ##########   end topbar  ########## */
+    /* ##########   Scrool Button  ########## */
+    
+    .btn-scroll {
+        background-color: #2E2E2E;
+        color: white;
+        border-radius: 0px 0px 5px 5px;
+        width: 30px;
+        height: 30px;
+        text-align: center;
+    }
+    
+    .btn-scroll:active {
+        background-color: #9eac88;
+        transform: translateY(4px);
+    }
+    /* ##########   End Scrool Button  ########## */
+    /* ##########   menu  ########## */
+    
+    .menu {
+        font-size: 14px;
+        font-family: Georgia;
+        font-weight: bold;
+    }
+    
+    .menu a {
+        border-bottom: 5px solid #F1F1F1;
+        padding-bottom: 20px;
+    }
+    
+    .menu a:active {
+        border-bottom: 5px solid #0099FF;
+    }
+    
+    .menu a:hover {
+        border-bottom: 5px solid #0099FF;
+    }
+    
+    .menu a.active {
+        border-bottom: 5px solid #0099FF;
+    }
+    /* ##########   end menu  ########## */
+    /* ##########   search  ########## */
+    
+    .search-section {
+        padding: 50px 20px 50px 0px;
+    }
+    
+    .search-box {
+        float: right;
+        margin-top: 20px;
+    }
+    
+    .search-section h1 {
+        color: #333333;
+        font-family: Georgia;
+    }
+    
+    .search-section p {
+        color: #999999;
+        font-size: 12px;
+        font-family: Georgia;
+    }
+    /* ##########   endsearch  ########## */
+    /* ##########   title description  ########## */
+    
+    .hero-section {
+        background-color: #F1F1F1;
+        padding: 10px;
+    }
+    
+    .title {
+        position: relative;
+        top: 140px;
+        padding-left: 30px;
+    }
+    
+    .title p {
+        font-size: 16px;
+        color: #666666;
+    }
+    
+    .hero-section img {
+        width: 550px;
+        height: 440px;
+    }
+    /* ##########   endtitle description  ########## */
+    /* ##########   netwrok section ##########  */
+    
+    .network-section {
+        padding: 20px;
+        margin-top: 30px;
+    }
+    
+    .network-img {
+        width: 100px;
+        height: auto;
+        text-align: center;
+    }
+    
+    .container img {
+        width: 80px;
+        height: 85px;
+    }
+    
+    .client {
+        text-align: center;
+        padding: 20px;
+    }
+    
+    .client h1 {
+        color: #0099FF;
+        font-size: 16px;
+        margin-top: 10px;
+    }
+    
+    .client p {
+        color: #666666;
+        font-size: 13px;
+        margin-top: 10px;
+    }
+    /* ##########  end  netwrok section ##########  */
+    /* ##########  end  banner ##########  */
+    
+    .banner {
+        border-left: 10px solid #0099FF;
+        padding: 15px;
+        background-color: #E0E0E0;
+        margin-top: 70px;
+    }
+    
+    .banner-p {
+        font-size: 18px;
+        color: #333333;
+    }
+    
+    .banner-h {
+        font-size: 36px;
+        color: #333333;
+        margin-top: 20px;
+    }
+    
+    .banner div {
+        margin: auto;
+    }
+    
+    .but button {
+        font-size: 26px;
+    }
+    /* ########## footer ########## */
+    
+    .footer {
+        background-color: #1A1A1A;
+        padding: 10px;
+        margin-top: 70px;
+    }
+    
+    .footer h5 {
+        color: #FFFFFF;
+        padding-top: 50px;
+    }
+    
+    .footer img {
+        width: 215px;
+        height: 90px;
+        padding: 5px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        border: 1px solid #555555;
+    }
+    
+    .footer p {
+        color: #666666;
+        margin-top: 10px;
+        font-size: 12px;
+    }
+    
+    .footer span {
+        color: #0099FF;
+        font-size: 12px;
+        text-align: end;
+        cursor: pointer;
+        float: right;
+        margin-right: 10px;
+    }
+    
+    .footer .link-list div {
+        border-bottom: 1px solid #232323;
+        padding-bottom: 4px;
+        padding-top: 4px;
+    }
+    
+    .footer .link-list a {
+        padding-left: 10px;
+    }
+    
+    .post .post-title {
+        color: #666666;
+        font-size: 14px;
+    }
+    
+    .post .address {
+        color: #666666;
+        font-size: 10px;
+    }
+    
+    .post .content {
+        color: #666666;
+        font-size: 12px;
+    }
+    
+    .forms input,
+    .forms textarea {
+        background-color: #232323;
+        border: none;
+    }
+    /* ########## footer ########## */
+    /* ##########  end  banner ##########  */
+    
+    @media(max-width:770px) {
+        .top-bar-social {
+            display: none;
+        }
+        .hide {
+            display: none;
+        }
+        .title h1 {
+            font-size: 25px;
+            font-weight: bold;
+        }
+        .slider {
+            margin-top: 70px;
+        }
+        .network-img img {
+            display: none;
+        }
+        .but button {
+            font-size: 16px;
+        }
+        .search-box {
+            display: none;
+        }
+    }
+    
+    @media(max-width:1024px) {
+        .title {
+            top: 30px;
+        }
+        .network-img {
+            display: none;
+        }
+        .responsive-center {
+            margin: auto;
+        }
+        .banner {
+            text-align: center;
+        }
+        .but button {
+            font-size: 18px;
+        }
+        .menu {
+            font-size: 12px;
+        }
+    }
+    
+    @media(max-width:840px) {
+        .menu {
+            font-size: 9px;
+        }
+    }
+    
+    @media(min-width: 770px) {
+        .search-box-full {
+            display: none;
+        }
+    }
