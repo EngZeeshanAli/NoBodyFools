@@ -7,7 +7,6 @@ A simple responsive template developed in #HTML #CSS #BOOTSTRAP. This is an open
       alt="Everything Is AWESOME" 
       style="width:100%;">
       </a>
-  
     </div>
 
 
