@@ -10,6 +10,6 @@ A simple responsive template developed in #HTML #CSS #BOOTSTRAP. This is an open
       </a>
     </div>
 
->>>>>>> 8a6e5723a6f2d42fdafe9262bc43e0933c65f2ec
+
 
 
